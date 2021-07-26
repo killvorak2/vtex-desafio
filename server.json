@@ -1,0 +1,32 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "name": "Bulbasaur",
+      "description": "There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger..",
+      "price": 100,
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png"
+    },
+    {
+      "id": 2,
+      "name": "Ivysaur",
+      "description": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.",
+      "price": 200,
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png"
+    },
+    {
+      "id": 3,
+      "name": "Venusaur",
+      "description": "Its plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
+      "price": 150,
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png"
+    },
+    {
+      "id": 4,
+      "name": "Charmander",
+      "description": "It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.",
+      "price": 400,
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png"
+    }
+  ] 
+}
